@@ -6,7 +6,7 @@ learning core front-end development skills while focusing on clean, scalable, an
 
 ## Overview  
 
-Developed as a local test site to get familiar with modern web development techniques.  
+Developed as a local test site(used vscode live server) to get familiar with modern web development techniques.  
 Features a visually appealing layout with multiple sections, including featured destinations, reviews, and calls-to-action.  
 The site follows best practices for responsive design, ensuring a seamless experience across desktops, tablets, and mobile devices.  
 
