@@ -3,11 +3,13 @@
 This is a responsive travel website built as a learning exercise using **HTML**, **CSS**, and **JavaScript**.  
 learning core front-end development skills while focusing on clean, scalable, and accessible design principles.  
 
+
 ## Overview  
 
 Developed as a local test site to get familiar with modern web development techniques.  
 Features a visually appealing layout with multiple sections, including featured destinations, reviews, and calls-to-action.  
 The site follows best practices for responsive design, ensuring a seamless experience across desktops, tablets, and mobile devices.  
+
 
 ## Features
 
@@ -31,18 +33,23 @@ During the development, several important technical concepts and skills were app
 - **Fully Responsive Design**  
   Achieved optimal readability and usability for all screen sizes without sacrificing aesthetics.  
 
+
 ## What Was Learned  
 
 - Proficiency in semantic HTML structure.  
 - Strong understanding of modern CSS layout systems (Grid, Flexbox).  
-- Ability to optimize for responsiveness and accessibility.  
-- Knowledge of modular CSS using custom properties for maintainability.  
+- Optimizing for responsiveness and accessibility.  
+- Modularity with CSS via custom properties for maintainability.  
 - Capability to translate a design into a functional, well-organized UI.  
 
-# Screenshots
-- []()
-- []()
-- []()
+
+# Screenshots  
+
+![Screenshot 1](screenshots/Image_1.png)  
+![Screenshot 3](screenshots/Image_3.png)  
+![Screenshot 5](screenshots/Image_5.png)  
+![Screenshot 4](screenshots/Image_4.png)  
+![Screenshot 2](screenshots/Image_2.png) 
 
 # Credits
   - Tutorial: Based on a YouTube tutorial by [codewithsadee](https://www.youtube.com/watch?v=VA8cgdMpNf4).
