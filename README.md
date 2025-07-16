@@ -34,7 +34,7 @@ During the development, several important technical concepts and skills were app
   Achieved optimal readability and usability for all screen sizes without sacrificing aesthetics.  
 
 
-## What Was Learned  
+## Was Good Practice to learn about:  
 
 - Proficiency in semantic HTML structure.  
 - Strong understanding of modern CSS layout systems (Grid, Flexbox).  
